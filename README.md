@@ -1,2 +1,3 @@
 # freecode_data_analysis
-This is where I store the exercises from freecodecamp.org. 
+freecodecamp.org. 
+Data analysis Example A and Example B exercises 
